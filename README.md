@@ -1,5 +1,5 @@
 # Sem-04 Practicle's All Subject
-> [!NOTE]
+> [!GitExp]
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
