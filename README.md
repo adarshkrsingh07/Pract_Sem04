@@ -1,7 +1,8 @@
 # Sem-04 Practicle's All Subject
 > [!NOTE]
 > This file contains all the links of the Experiments.
-> It includes all the Practicle subject i.e.( Git&GitHub , Agile , DAA ).
+> It includes all the Practicle subject i.e.  
+> ( Git&GitHub , Agile , DAA ).
 
 ## Git and GitHub   
 EXP:-01 [GIT EXP01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445228/GIT.EXP01.pdf) Install Git and creating repository.    
