@@ -19,6 +19,6 @@ EXP:-01 [DAA EXP 01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14
 EXP:-01 [DAA EXP 02.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445492/DAA.EXP.02.pdf)  
 EXP:-01 [DAA EXP 03.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445489/DAA.EXP.03.pdf)  
 EXP:-01 [DAA EXP 04.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445498/DAA.EXP.04.pdf)  
-EXP:-05 [DAA EXP 05.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445496/DAA.EXP.05.pdf)
-EXP:-06 [DAA EXP 06.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445493/DAA.EXP.06.pdf)
+EXP:-05 [DAA EXP 05.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445496/DAA.EXP.05.pdf)  
+EXP:-06 [DAA EXP 06.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445493/DAA.EXP.06.pdf)  
 
