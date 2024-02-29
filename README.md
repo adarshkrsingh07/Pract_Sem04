@@ -9,6 +9,7 @@ EXP:-01 [GIT EXP01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/144
 EXP:-02 [GIT EXP2.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445240/GIT.EXP2.pdf)   Editing a file and committing changes on GitHub.  
 EXP:-03 [GIT EXP3.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445248/GIT.EXP3.pdf)   To create and explore Push/Pull requests.  
 EXP:-04 [GIT EXP4.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445256/GIT.EXP4.pdf)   Editing a file and committing changes on GitHub.  
+EXP:-05 [GIT EXP5.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14452186/GIT.EXP5.pdf)  Merge pull request and update local repository.  
 
 ## Agile Methodology
 EXP:-01 [Agile_unit_1_ppt.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445344/Agile_unit_1_ppt.pdf)  
