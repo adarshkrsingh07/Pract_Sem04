@@ -1,4 +1,4 @@
-# Sem-04 Practicle's All Subject
+# Sem-04 Practical's All Subject
 > [!NOTE]
 > This file contains all the links of the Experiments.
 > It includes all the Practicle subject i.e.  
