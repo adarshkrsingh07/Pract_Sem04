@@ -37,16 +37,17 @@
 • After Creating a file now enter your message: vi File1, after that check “git status” it will show that the File1 is modified.  
 ![Screenshot 2024-03-02 164750](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/2cc3317b-0d95-49e5-9d9c-78d711a58b6e)  
 • Now create a Feature_branch from the main branch i.e.(testBranch).  
-![Screenshot 2024-03-02 164755](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/910b114d-d180-48eb-9692-ad2e95eeeab1)
-
+![Screenshot 2024-03-02 164755](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/910b114d-d180-48eb-9692-ad2e95eeeab1)  
 • Now open the same file by vi File1.txt in the “testBranch” and perform some changes on it.  
+![Screenshot 2024-03-02 164802](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/86343ab6-cd7f-4d32-8df5-6052f68c037a)  
 • Now Commit the changes in main branch of file i.e.(testFile).
-• After creating a file in the “Main branch” and also commiting it. after, that we
-have to merge the (testfile) of “feature_branch” in the Main branch.
-• After merging the branches now we have to delete the branches: “git branch –
-delete “branch_name”
-We have successfully created a file and merged in the Main Branch.
-Learning outcomes (What I have learnt):
+![Screenshot 2024-03-02 164808](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/803b7302-6dfd-4868-abd6-5a425add5620)  
+• After creating a file in the “Main branch” and also commiting it. after, that we have to merge the (testfile) of “feature_branch” in the Main branch.  
+![Screenshot 2024-03-02 164815](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/4fc569c2-1bfe-4c41-81a1-5c8397c38043)    
+• After merging the branches now we have to delete the branches: “git branch –-delete “branch_name”    
+![Screenshot 2024-03-02 164822](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/3a12fca4-1d19-49b3-bae7-4c3aa78fc282)  
+We have successfully created a file and merged in the Main Branch.  
+ ### **Learning outcomes (What I have learnt):**
 1. Learnt about GitHub.
 2. Learnt about Git.
 3. Learnt about various git commands that can be applied on Git Bash.
