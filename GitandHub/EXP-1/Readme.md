@@ -1,86 +1,55 @@
 ## Experiment no- 01 Install Git and creating repository.  
-<span style="color:green">**1. Aim/Overview of the practical:**</span>
-Here is some <span style="color:blue">blue text</span>.
-
-
 **1. Aim/Overview of the practical:** Install Git and creating repository.  
 **2. Task to be done:** Download Git for Windows. And, to make repositories.  
 **3. Steps for experiment:-**
 1) Go to the official Git website: https://git-scm.com/downloads.
-2) Click thedownload link for Windows and allow the download to complete.
-3) Browse to the download location (or use the download shortcut in your browser). Doubleclick the file to extract andlaunch the installer.
-4) Allow the app to make changes to your device by clicking Yes on the User Account Control dialog
-that opens.
-5)The installer will ask you for an installation location. Leave the default, unless you have
- reason to change it, andclick Next.
-6)The installer will offer to create a start menu folder. Simply click Next.
-7)Select a text editor you’d like to use with Git. Use the drop-down menu to select Notepad++
-(or whichever text editoryou prefer) and click Next.
-8) The next step allows you to choose a different name for your initial branch. The default
-is 'master.' Unless you'reworking in a team that requires a different name, leave the default
-option and click Next.
-9) Choose the terminal emulator you want to use. The default MinTTY is recommended,
-for its features. Click Next.
-10)The installer now asks what the git pull command should do. The default option is
-recommended unless youspecifically need to change its behavior. Click Next to
-continue with the installation.
-11) Next you should choose which credential helper to use. Git uses credential helpers to
-fetch or save credentials. Leavethe default option as it is the most stable one, and click Next.
-12) Depending on the version of Git you’re installing, it may offer to install experimental
-features. At the time this article was written, the options to include support for pseudo controls
-and a built-in file system monitor were offered. Unless you are feeling adventurous, leave them
-unchecked and click Install.
-13) Once the installation is complete, tick the boxes to view the Release Notes or Launch Git Bash,then click Finish.
-How to Launch Git in Windows
-• Git has two modes of use – a bash scripting shell (or command line) and a
-graphical user interface (GUI). To launch Git GUI open the Windows Start
-• menu, type git gui and press Enter (or click the application icon).Connecting to
-a Remote Repository
-• You need a GitHub username and password for this next step.
-Create a Test Directory
-• Create a new test directory (folder) by entering the following:
- mkdir first_git
-• Change your location to the newly
-created directory:cd first_git
-Note: If you already have a GitHub repository, use the name of that project instead of first_git
-Configure GitHub Credentials
-Configure your local Git installation to use your GitHub credentials by
-entering the following:git config --global user.name "github_username"
-git config --global user.email "email_address"
-Note: Replace github_username and email_address with your GitHub credentials.
-We can also see the list of configurations by using the command git config – list.
-Clone a GitHub Repository
-Go to your repository on GitHub. In the top right above the list of files, open the Clone or
-download drop-down menu.Copy the URL for cloning over HTTPS.
-Switch to your PowerShell window, and enter the following:
-git clone repository_url
-List Remote Repositories
-Your working directory should now have a copy of the repository from GitHub. It should
-contain a directory withthe name of the project. Change to the directory:
-cd first_git or 22BCD-1
-Once you’re in the sub-directory, list the remote
-repositories:git remote -v
-Enter the details in the current file
-You can enter the desired details into your current file by the following commands:
-Cat > first_git
-Enter the details in
-the filePress
-Cntrl+D
-Then, you can see the entered details through the command :- Cat first_git
-Creating Repository on GitHub
-1. After successful login into your account. Click on the option (+) to add new repository to your account.
-2. After clicking new repository option, we will have to initialize some things like, naming
-our project, choosingthe visibility etc. After performing these steps click Create
-Repository button.
+   ![Screenshot 2024-03-02 154206](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/68ecb2bd-4fb5-4449-bc96-641eaf9aef31)
+ 
+2) Click thedownload link for Windows and allow the download to complete.  
+   ![Screenshot 2024-03-02 154215](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/9828acca-38d6-47cc-8176-8b7e5a02cd89)  
+3) Browse to the download location (or use the download shortcut in your browser). Double-click the file to extract and launch the installer.Review the GNU General Public License, and when you’re ready to install, click Next.
+![Screenshot 2024-03-02 154220](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/f00d5cd9-059b-427f-8417-41366c9eb2b5)  
+4) The installer will ask you for an installation location. Leave the default, unless you have reason to change it, and click Next.  
+ ![Screenshot 2024-03-02 154225](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/b29b1b35-d0cb-4fff-9bde-a29d20b70615)  
+5) A component selection screen will appear. Leave the defaults unless you have a specific need to change them and click The installer will offer to create a start menu folder. Simply click Next.  
+![Screenshot 2024-03-02 154237](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/550bf614-08bb-41a5-a65f-cec850c1d888)    
+6) The next step allows you to choose a different name for your initial branch. The default is 'master.' Unless you're working in a team that requires a different name, leave the default option and click Next.  
+![Screenshot 2024-03-02 155413](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/3d5752a6-d28b-42f8-851d-0cdeebd2db3e)    
+7) This installation step allows you to change the PATH environment. The PATH is the default set of directories included when you run a command from the command line. Leave this on the middle (recommended) selection and click Next.  
+![Screenshot 2024-03-02 155452](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/0b8fa12f-12a0-4368-afaf-a89c6c4809b9)  
+8) The next option relates to server certificates. Most users should use the default. If you’re working in an Active Directory environment, you may need to switch to Windows Store certificates. Click Next.  
+![Screenshot 2024-03-02 155637](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/abfb2e54-37ea-4906-b8dc-16f91d83abcf)  
+9) Choose the terminal emulator you want to use. The default MinTTY is recommended, for its features. Click Next.  
+![Screenshot 2024-03-02 155645](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/cafcec2c-9ad0-4231-b4b7-b004651f2c55)    
+10) Complete Git Installation Process Once the installation is complete, tick the boxes to view the Release Notes or Launch Git Bash, then click Finish.  
+![Screenshot 2024-03-02 155656](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/0439340e-2fea-4a8e-b6c2-12da430e5541)
+ ### Now On Local Repository i.e. (Git)  
+ - Now on your local repository firstly create a repository by (mkdir <repo_name>). if already created on Github then you can clone it copyingt the https link.  
+   ![Screenshot 2024-03-02 161044](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/97907cfc-4ce0-400a-806e-f9c911532c48)  
+ - Now configure your GitHub Credentials to your git by:-
+   (git config --global user.name "your user_name") && (git config --global user.email "your email")  
+   ![Screenshot 2024-03-02 161353](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/0cfa8ba9-ea91-42ca-9dd3-33808f2d810e)
+ - Now check that your git is configured with github or not by (git config --list). if it is configured then it will show your username & email.  
+   ![Screenshot 2024-03-02 161528](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/5265d7e5-c228-4e52-8a1d-b4afe5c209b3)
+ - now go to your created repository on git by (cd <repo_name>) and crate a file inside your repository by (cat > <file_name>).
+   ![Screenshot 2024-03-02 161803](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/ca46ad64-b293-42b8-881c-721822655f7c)  
+## Now for Remote Repository i.e (GitHub).  
+ - go to your Gihub account then click on the "+" icon then select "Create new repository" and then enter the name of the repository and select any one of the  visibility option then add "readme.md" file , ".gitignore" file and choose a lisence then click on create repository.  
+   ![Screenshot 2024-03-02 162550](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/f04ecd14-dae3-4df3-b030-c3d44af950c8)  
+**Learning outcomes (What I have learnt):**
+  1. Learnt about GitHub.
+  2. Learnt about Git.
+  3. Learnt about various git commands that can be applied on Git Bash.
+  4. Learnt about how to create repositories on git and github.
 
-3. After clicking the button, we will be directed to below page. Right now the only file we have is
-a readme file.
-4. Now click on the “Upload files” button. Do some needed steps. Now we can see
- all the files in our github.
-We have successfully created a repository and applied some commands on that.  
-**Learning outcomes (What I have learnt):**  
-1. Learnt about GitHub.
-2. Learnt about Git.
-3. Learnt about various git commands that can be applied on Git Bash.
-4. Learnt about how to create repositories.
-5. Learnt about how to pull request and push source code /files etc.
+
+
+   
+
+
+
+
+
+
+
+ 
