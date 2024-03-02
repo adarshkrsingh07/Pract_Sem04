@@ -2,7 +2,7 @@
 **1. Aim/Overview of the practical:** To create and explore Push/Pull requests.  
 **2. Task to be done:** Creating a file in your Local repository and pushing it to remote repository and pulling the file from the remote repository to local repository.  
 **3.Software Used:** Git Bash, GitHub.  
-4**. Steps for Experiment: -**    
+**4. Steps for Experiment: -**    
 1) Configure your credentials before working on your local repository i.e.(user name , user email).![Screenshot 2024-03-02 204945](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/52a22b88-94e4-473f-b817-251cd932e8ac)
   
 2) Apart from this, clone your repository in local machine. It will make a complete copy of your repository.![Screenshot 2024-03-02 204954](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/17f035da-261a-415f-889d-a8323aa66f5e)
