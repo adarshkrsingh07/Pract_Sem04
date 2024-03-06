@@ -29,10 +29,21 @@ EXP:-02 [Agile_Unit_1_questions.pdf](https://github.com/adarshkrsingh07/Pract_Se
 EXP:-03 [Agile_Unit_1.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445346/Agile_Unit_1.pdf)  
 
 ## Desing and Analysis of Algorithm
-EXP:-01 [DAA EXP 01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445490/DAA.EXP.01.pdf)  Binary search Algorithm.  
-EXP:-02 [DAA EXP 02.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445492/DAA.EXP.02.pdf)  Quick Sort algorithm using Divide & Conquer method.  
-EXP:-03 [DAA EXP 03.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445489/DAA.EXP.03.pdf)  Strassen’s Matrix multiplication.  
-EXP:-04 [DAA EXP 04.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445498/DAA.EXP.04.pdf)  Minimum Cost Spanning Tree using Kruskal’s Algorithm.  
-EXP:-05 [DAA EXP 05.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445496/DAA.EXP.05.pdf)  Job Sequencing with a deadline using the Greedy Approach.  
+EXP:-01 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-1  
+EXP:-01 [DAA EXP 01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445490/DAA.EXP.01.pdf)  Binary search Algorithm.<br>
+
+EXP:-02 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-2    
+EXP:-02 [DAA EXP 02.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445492/DAA.EXP.02.pdf)  Quick Sort algorithm using Divide & Conquer method.<br> 
+
+EXP:-03 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-3  
+EXP:-03 [DAA EXP 03.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445489/DAA.EXP.03.pdf)  Strassen’s Matrix multiplication.<br>
+
+EXP:-04 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-4  
+EXP:-04 [DAA EXP 04.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445498/DAA.EXP.04.pdf)  Minimum Cost Spanning Tree using Kruskal’s Algorithm.<br>
+
+EXP:-05 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-5  
+EXP:-05 [DAA EXP 05.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445496/DAA.EXP.05.pdf)  Job Sequencing with a deadline using the Greedy Approach.<br>
+
+EXP:-06 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-6  
 EXP:-06 [DAA EXP 06.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445493/DAA.EXP.06.pdf)  Travelling Salesman Problem (TSP) using Dynamic Programming.  
 
