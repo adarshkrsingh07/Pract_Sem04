@@ -5,7 +5,7 @@
 > ( Git&GitHub , Agile , DAA ).
 
 ## Git and GitHub   
-Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-1  
+EXP:-01  Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-1  
 EXP:-01 [GIT EXP01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445228/GIT.EXP01.pdf) Install Git and creating repository.   
 <br>
 EXP:-02 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-2      
