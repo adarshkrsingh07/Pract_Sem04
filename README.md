@@ -21,7 +21,7 @@ EXP:-05 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHu
 EXP:-05 [GIT EXP5.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14452186/GIT.EXP5.pdf)  Merge pull request and update local repository.  
 <br>
 EXP:-06 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-6  
-EXP:-06 [GIT EXP6.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14513994/GIT.EXP6.pdf)
+EXP:-06 [GIT EXP6.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14513994/GIT.EXP6.pdf)  Creation of forks on GitHub.
 
 ## Agile Methodology
 EXP:-01 [Agile_unit_1_ppt.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445344/Agile_unit_1_ppt.pdf)  
