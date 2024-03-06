@@ -5,10 +5,19 @@
 > ( Git&GitHub , Agile , DAA ).
 
 ## Git and GitHub   
-EXP:-01 [GIT EXP01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445228/GIT.EXP01.pdf) Install Git and creating repository.    
+EXP:-01 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-1  
+EXP:-01 [GIT EXP01.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445228/GIT.EXP01.pdf) Install Git and creating repository.   
+<br>
+EXP:-02 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-2      
 EXP:-02 [GIT EXP2.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445240/GIT.EXP2.pdf)   Editing a file and committing changes on GitHub.  
+<br>
+EXP:-03 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-3  
 EXP:-03 [GIT EXP3.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445248/GIT.EXP3.pdf)   To create and explore Push/Pull requests.  
-EXP:-04 [GIT EXP4.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445256/GIT.EXP4.pdf)   Editing a file and committing changes on GitHub.  
+<br>
+EXP:-04 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-4  
+EXP:-04 [GIT EXP4.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445256/GIT.EXP4.pdf)   Editing a file and committing changes on GitHub.<br>
+<br>
+EXP:-05 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-5  
 EXP:-05 [GIT EXP5.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14452186/GIT.EXP5.pdf)  Merge pull request and update local repository.  
 
 ## Agile Methodology
