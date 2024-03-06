@@ -40,7 +40,7 @@
 ![Screenshot 2024-03-02 164755](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/910b114d-d180-48eb-9692-ad2e95eeeab1)  
 • Now open the same file by vi File1.txt in the “testBranch” and perform some changes on it.  
 ![Screenshot 2024-03-02 164802](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/86343ab6-cd7f-4d32-8df5-6052f68c037a)  
-• Now Commit the changes in main branch of file i.e.(testFile).
+• Now Commit the changes in main branch of file i.e.(testFile).  
 ![Screenshot 2024-03-02 164808](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/803b7302-6dfd-4868-abd6-5a425add5620)  
 • After creating a file in the “Main branch” and also commiting it. after, that we have to merge the (testfile) of “feature_branch” in the Main branch.  
 ![Screenshot 2024-03-02 164815](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/4fc569c2-1bfe-4c41-81a1-5c8397c38043)    
