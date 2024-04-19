@@ -38,7 +38,7 @@
 
 ![Screenshot 2024-04-19 145001](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/6de6f6d4-f73b-40d0-85a8-12d7a3e88c09)
 
-9). Now execute hard reset by (git reset –hard hashcode) it will remove the file form all the stages i.e. repository,staging and working directory.
+10). Now execute hard reset by (git reset –hard hashcode) it will remove the file form all the stages i.e. repository,staging and working directory.
 
 ![Screenshot 2024-04-19 145007](https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/1c6b1da9-4d7d-4240-a1d1-c15833ff8708)
 
