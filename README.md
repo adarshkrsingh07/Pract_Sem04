@@ -57,5 +57,16 @@ EXP:-05 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%2
 EXP:-05 [DAA EXP 05.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445496/DAA.EXP.05.pdf)  Job Sequencing with a deadline using the Greedy Approach.<br>
 
 EXP:-06 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-6  
-EXP:-06 [DAA EXP 06.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445493/DAA.EXP.06.pdf)  Travelling Salesman Problem (TSP) using Dynamic Programming.  
+EXP:-06 [DAA EXP 06.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445493/DAA.EXP.06.pdf)  Travelling Salesman Problem (TSP) using Dynamic Programming. 
 
+EXP:-07 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-7  
+EXP:-07 [DAA EXP 7.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15037733/DAA.EXP.7.pdf)  Perform Matrix Chain Multiplication Problem
+
+EXP:-08 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-8  
+EXP:-08 [DAA EXP 8.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15037759/DAA.EXP.8.pdf) Implement Graph Coloring Problem with Backtracking Approach
+
+EXP:-09 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-9  
+EXP:-09 [DAA EXP 9.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15037763/DAA.EXP.9.pdf) Program to implement N-Queen Problem using Backtracking Method.
+
+EXP:-10 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/Design%20and%20Analysis%20of%20Algorithm/EXP-10  
+EXP:-10 [DAA EXP 10.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15037767/DAA.EXP.10.pdf)  Program to implement 0/1 Knapsack Problem using Branch & Bound Method.
