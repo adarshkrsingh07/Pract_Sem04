@@ -21,7 +21,19 @@ EXP:-05 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHu
 EXP:-05 [GIT EXP5.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14452186/GIT.EXP5.pdf)  Merge pull request and update local repository.  
 <br>
 EXP:-06 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-6  
-EXP:-06 [GIT EXP6.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14513994/GIT.EXP6.pdf)  Creation of forks on GitHub.
+EXP:-06 [GIT EXP6.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14513994/GIT.EXP6.pdf)  Creation of forks on GitHub.  
+<br>
+EXP:-07 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-7  
+EXP:-07 [GITEXP 07.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15033728/GITEXP.07.pdf)  Git merge Conflicts and resolving git merge conflicts.  
+<br>
+EXP:-08 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-8  
+EXP:-08 [GITEXP 08.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15033829/GITEXP.08.pdf) Compare the changes in the repository.    
+<br>
+EXP:-09 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-9  
+EXP:-09 [GITEXP 09.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15033841/GITEXP.09.pdf)  Understanding the various reset modes.    
+<br>
+EXP:-10 Folder https://github.com/adarshkrsingh07/Pract_Sem04/tree/main/GitandHub/EXP-10  
+EXP:-10 [GITEXP 10.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/15033849/GITEXP.10.pdf)  Work with your history in git.
 
 ## Agile Methodology
 EXP:-01 [Agile_unit_1_ppt.pdf](https://github.com/adarshkrsingh07/Pract_Sem04/files/14445344/Agile_unit_1_ppt.pdf)  
